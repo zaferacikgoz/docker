@@ -1,0 +1,12 @@
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/docker
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/appsettings.json
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/docker.dll
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/docker.deps.json
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/docker.runtimeconfig.json
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/docker.pdb
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mac/Documents/Docker/docker/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

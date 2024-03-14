@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0nRf+Ub/A9ykYZAaYv9moI/rsUHPZ4lLrAblWtu9G8M=",
+  "Source": "docker",
+  "BasePath": "_content/docker",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
